@@ -1,5 +1,5 @@
 # ArcadeSkate
-Infinite 2d runner created in Unity based on the classic game jetpack joyride.
+Small side project where I learned more about unity creating a Jetpack Joyride inspired 2d Infinite runner. 
 
 ### Screenshots of the game
 ![screenshot4](https://user-images.githubusercontent.com/55756146/164564689-e79a7192-218b-4980-a7f8-09cfe333fd1e.PNG)
