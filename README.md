@@ -1,5 +1,13 @@
 # ArcadeSkate
-Small side project where I learned more about unity creating a Jetpack Joyride inspired 2d Infinite runner. 
+Small side project where I learned more about *Unity* and *C#* creating a 2d Infinite runner inspired by the timeless classic Jetpack Joyride. Some of  the things I learned from this project are:
+- GameObjects and Components usage
+- How Rigidbodies and colliders work
+- Coroutines & playerprefs  
+- UI, Scene management & small animations
+  - Aspect ratio & canvas 
+- Prefabs & instantiating
+- Tags & layers
+- Sounds and music 
 
 ## Game
 The game can be played on itchio -> https://arcadeskate.itch.io/arcade-skate
