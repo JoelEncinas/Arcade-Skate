@@ -1,12 +1,14 @@
 # ArcadeSkate <img src="https://img.shields.io/badge/-Unity-lightgrey" alt="Unity" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C%23-brightgreen" alt="C#" style="max-width: 100%;">
-Small side project where I learned more about ***Unity*** and ***C#*** creating a 2d Infinite runner inspired by the timeless classic Jetpack Joyride. Some of  the things I learned from this project are:
+Small side project where I learned more about ***Unity*** and ***C#*** creating a 2d Infinite runner inspired by the timeless classic Jetpack Joyride. Some of  the things I learned about while making this project are:
 - GameObjects & Components 
 - How Rigidbodies and colliders work (2D)
-- Coroutines & playerprefs  
+- Coroutines & game flow
+- - Prefab workflow & instantiating
+- Playerprefs and saving data 
 - UI, Scene management & small animations
-  - Aspect ratio & canvas 
-- Prefabs & instantiating
-- Tags & layers
+  - Aspect ratio, canvas & UI
+- Scene management
+- Tags & layers 
 - Sounds and music 
 
 ## Play the game
