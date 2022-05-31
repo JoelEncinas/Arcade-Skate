@@ -1,6 +1,6 @@
 # ArcadeSkate <img src="https://img.shields.io/badge/-Unity-lightgrey" alt="Unity" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C%23-brightgreen" alt="C#" style="max-width: 100%;">
 
-I spent a some of my adolescence playing the timeless classic [Jetpack Joyride](https://www.youtube.com/watch?v=Jzxi8nid9BQ) and vividly remember having a blast, so I decided to create a 2d Infinite runner inspired by it. I've been skateboarding for a couple years now and I wanted to translate that feeling of doing tricks and clearing obstacles in this action game.
+I spent some of my adolescence playing the timeless classic [Jetpack Joyride](https://www.youtube.com/watch?v=Jzxi8nid9BQ) and vividly remember having a blast, so I decided to create a 2d Infinite runner inspired by it. I've been skateboarding for a couple years now and I wanted to translate that feeling of doing tricks and clearing obstacles in this action game.
 
 Some of  the things I learned about while making this project are:
 - Game logic
