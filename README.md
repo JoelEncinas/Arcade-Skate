@@ -1,20 +1,28 @@
 # ArcadeSkate <img src="https://img.shields.io/badge/-Unity-lightgrey" alt="Unity" style="max-width: 100%;"> <img src="https://img.shields.io/badge/-C%23-brightgreen" alt="C#" style="max-width: 100%;">
 
-Small side project where I learned more about ***Unity*** and ***C#*** creating a 2d Infinite runner inspired by the timeless classic Jetpack Joyride. Some of  the things I learned about while making this project are:
-- GameObjects & Components 
+I spent a some of my adolescence playing the timeless classic [Jetpack Joyride](https://www.youtube.com/watch?v=Jzxi8nid9BQ) and vividly remember having a blast, so I decided to create a 2d Infinite runner inspired by it. I've been skateboarding for a couple years now and I wanted to translate that feeling of doing tricks and clearing obstacles in this action game.
+
+Some of  the things I learned about while making this project are:
+- Game logic
+  - GameObjects & Components 
   - Reference each other
-- How Rigidbodies and colliders work (2D)
+  - How Rigidbodies & colliders work (2D)
   - Tags & layers 
-- Coroutines & calls between functions
-- Prefabs & instantiating
-- Saving data and settings in playerprefs
+  - Coroutines & calls between functions
+  - Prefabs & instantiating
+  - Singleton pattern
+- Managing data
+  - Saving + reading data & settings in playerprefs (Unity local storage)
 - UI  
   - Animations
-  - Aspect ratio, resolution & canvas 
-- Scene management
-- Add sounds and music 
-- Product shipping and working with deadlines (SCRUM methodology)
-  - Used trello for this one
+  - How to correctly set aspect ratio, resolution & canvas resizing
+  - Scene management
+- SFX
+  - Add sounds & music 
+- Product shipping and launching
+  - Used trello to manage features I wanted to implement 
+  - Work with deadlines (SCRUM methodology)
+  - Launch the game on a platform
 
 ## :video_game: Play the game 
 - [Play the game here!](https://arcadeskate.itch.io/arcade-skate)
