@@ -2,28 +2,32 @@
 
 I spent some of my adolescence playing the timeless classic [Jetpack Joyride](https://www.youtube.com/watch?v=Jzxi8nid9BQ) and vividly remember having a blast, so I decided to create a 2d Infinite runner inspired by it. I've been skateboarding for a couple years now and I wanted to translate that feeling of poppin' tricks and cruising the city in this action game.
 
-## 🚀 Things I learned
-- Game logic
+## 🚀 Things I learned about
+- **Game logic**
 
-  - GameObjects & Components 
-  - Reference each other
-  - How Rigidbodies & colliders work (2D)
-  - Tags & layers 
-  - Coroutines & calls between functions
-  - Prefabs & instantiating
-  - Singleton pattern
-- Managing data
-  - Saving + reading data & settings in playerprefs (Unity local storage)
-- UI  
-  - Animations
-  - How to correctly set aspect ratio, resolution & canvas resizing
-  - Scene management
-- SFX
-  - Add sounds & music 
-- Product shipping and launching
-  - Used trello to manage features I wanted to implement 
-  - Work with deadlines (SCRUM methodology)
-  - Launch the game on a platform
+  - *GameObjects & Components*
+  - *Reference each other*
+  - *How Rigidbodies & colliders work (2D)*
+  - *Tags & layers*
+  - *Coroutines & calls between functions*
+  - *Prefabs & instantiating*
+  - *Singleton pattern*
+- **Managing data**
+
+  - *Saving + reading data & settings in playerprefs (Unity local storage)*
+- **UI**
+
+  - *Animations*
+  - *How to correctly set aspect ratio, resolution & canvas resizing*
+  - *Scene management*
+- **SFX**
+
+  - *Add sounds & music*
+- **Product shipping and launching**
+
+  - *Used trello to manage features I wanted to implement* 
+  - *Work with deadlines (SCRUM methodology)*
+  - *Launch the game on a platform*
 
 ## :video_game: Check it out for yourself!
 - [Play the game here!](https://arcadeskate.itch.io/arcade-skate)
