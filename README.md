@@ -2,16 +2,19 @@
 
 Small side project where I learned more about ***Unity*** and ***C#*** creating a 2d Infinite runner inspired by the timeless classic Jetpack Joyride. Some of  the things I learned about while making this project are:
 - GameObjects & Components 
+  - Reference each other
 - How Rigidbodies and colliders work (2D)
-- Coroutines & game flow
-- - Prefab workflow & instantiating
-- Playerprefs and saving data 
-- UI, Scene management & small animations
-  - Aspect ratio & canvas 
+  - Tags & layers 
+- Coroutines & calls between functions
+- Prefabs & instantiating
+- Saving data and settings in playerprefs
+- UI  
+  - Animations
+  - Aspect ratio, resolution & canvas 
 - Scene management
-- Tags & layers 
-- Sounds and music 
+- Add sounds and music 
 - Product shipping and working with deadlines (SCRUM methodology)
+  - Used trello for this one
 
 ## :video_game: Play the game 
 - [Play the game here!](https://arcadeskate.itch.io/arcade-skate)
