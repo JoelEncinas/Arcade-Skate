@@ -26,7 +26,7 @@ I spent some of my adolescence playing the timeless classic [Jetpack Joyride](ht
 - **Product shipping and launching**
 
   - *Used trello to manage features I wanted to implement* 
-  - *Work with deadlines (SCRUM methodology)*
+  - *Work with deadlines (AGILE methodology)*
   - *Launch the game on a platform*
 
 ## :video_game: Check it out for yourself!
